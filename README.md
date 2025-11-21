@@ -29,3 +29,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+<strong>Live preview</strong>: https://autowash-website.netlify.app/
