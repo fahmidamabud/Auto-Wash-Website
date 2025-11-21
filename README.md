@@ -12,3 +12,20 @@ The project is easy to customize and fully optimized for fast performance.
 | Build Tool      | Vite                             |
 | Deployment      | Netlify (Recommended)            |
 | Version Control | Git & GitHub                     |
+⚙️ Installation & Setup Guide
+
+Follow the steps below to run the project locally.
+
+🔹 1. Clone the Repository                                                                              
+```bash
+git clone https://github.com/fahmidamabud/Auto-Wash-Website.git
+cd Auto-Wash-Website
+```
+🔹 2. Install Dependencies
+```bash
+npm install
+```
+🔹 3. Start the Development Server
+```bash
+npm run dev
+```
