@@ -1,16 +1,7 @@
-# React + Vite
+<h1 align="center">🧼 Auto-Wash Website</h1>
+<p align="center"> <strong>A Modern React + Tailwind CSS Car Wash Landing Website</strong><br> Built using <b>React.js (Vite)</b> and <b>Tailwind CSS</b> with responsive UI and smooth interactions. </p> <hr>
+📘 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The Auto-Wash Website is a clean and modern landing page designed for car wash businesses.
+It features responsive layouts, smooth animations, service highlights, pricing sections, and a professional user interface built entirely with React and Tailwind CSS.
+The project is easy to customize and fully optimized for fast performance.
